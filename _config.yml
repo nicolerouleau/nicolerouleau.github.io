@@ -4,14 +4,8 @@ title: Nicole Rouleau
 email: nicole.r.rouleau@gmail.com
 description: Economist | Data Analyst | Lifelong Learner
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/nicolerouleau"
-
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/nicolerouleau"
+social_links:
+  - { platform: github,   user_url: "https://github.com/nicolerouleau" }
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/nicolerouleau" 
 
 last_updated: false
