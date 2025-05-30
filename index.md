@@ -25,6 +25,4 @@ Marine Layer <br/>
 - __Teaching Assistant__ <br/>
 Washington State University <br/>
 
-
-
-{% include footer.html %}
+[Connect On Linkedin](https://www.linkedin.com/in/nicole-rouleau/)
