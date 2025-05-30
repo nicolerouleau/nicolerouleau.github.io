@@ -1,4 +1,17 @@
 remote_theme: pages-themes/minimal@v0.2.0
 logo: docs/assets/Temp_headshot.png
 title: Nicole Rouleau
+email: nicole.r.rouleau@gmail.com
 description: Economist | Data Analyst | Lifelong Learner
+
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/nicolerouleau"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/nicolerouleau"
+
+last_updated: false
