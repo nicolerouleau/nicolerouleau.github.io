@@ -11,16 +11,16 @@
 - Links
 
 # Education
-- Master of Science in Economics <br/>
+- __Master of Science in Economics__ <br/>
 Washington State University
-- Bachelor of Science in Economics; Minors in Applied Mathematics & Dance <br/>
+- __Bachelor of Science in Economics; Minors in Applied Mathematics & Dance__ <br/>
 Loyola Marymount University
 
 # Work History
-[Resume](https://github.com/nicolerouleau/Resume)
-- Manager <br/>
+__[Resume](https://github.com/nicolerouleau/Resume)__
+- __Manager__ <br/>
 Marine Layer <br/>
-- Supervisor <br/>
+- __Supervisor__ <br/>
 Marine Layer <br/>
-- Teaching Assistant <br/>
+- __Teaching Assistant__ <br/>
 Washington State University <br/>
