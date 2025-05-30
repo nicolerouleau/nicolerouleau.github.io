@@ -7,11 +7,12 @@
 - [U.S. Consumer Preference and Policy in BEV 2018-2020](https://github.com/nicolerouleau/Stata_US_BEV)
 
 ### R - EDA
-- Description
+- Exploratory data analysis on grocery sales dataset exploring relationships of grocery sales data through nonlinear regression analysis, k-means, clustering, and visualization.
+- Utilized data cleaning
 - Links
 
 # Education
-- __Master of Science in Economics__ <br/>
+- __Master of Science in Applied Economics__ <br/>
 Washington State University
 - __Bachelor of Science in Economics; Minors in Applied Mathematics & Dance__ <br/>
 Loyola Marymount University
