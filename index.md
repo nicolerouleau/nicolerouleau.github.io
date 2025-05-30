@@ -17,9 +17,11 @@ Washington State University
 Loyola Marymount University
 
 # Work History
+[Resume](https://github.com/nicolerouleau/Resume)
 - Manager <br/>
 Marine Layer <br/>
 -Supervisor <br/>
 Marine Layer <br/>
 - Teaching Assistant <br/>
 Washington State University <br/>
+[Resume](https://github.com/nicolerouleau/Resume)
