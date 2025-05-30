@@ -24,3 +24,7 @@ Marine Layer <br/>
 Marine Layer <br/>
 - __Teaching Assistant__ <br/>
 Washington State University <br/>
+
+
+
+{% include footer.html %}
