@@ -7,9 +7,9 @@
 - [U.S. Consumer Preference and Policy in BEV 2018-2020](https://github.com/nicolerouleau/Stata_US_BEV)
 
 ### R - EDA
-- Exploratory data analysis on grocery sales dataset exploring relationships of grocery sales data through nonlinear regression analysis, k-means, clustering, and visualization.
-- Utilized data cleaning
-- Links
+- Performed data cleaning, integration, and analysis on a relational grocery sales dataset using R.
+- Built sales forecasts with XGBoost and identified customer segments via PCA and K-means clustering.
+- [Exploratory Grocery Data Analysis](https://nicolerouleau.github.io/R_Grocery/)
 
 # Education
 - __Master of Science in Applied Economics__ <br/>
