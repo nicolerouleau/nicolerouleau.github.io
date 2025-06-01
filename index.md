@@ -18,7 +18,7 @@ Washington State University
 Loyola Marymount University
 
 # Work History
-__[Resume](https://github.com/nicolerouleau/Resume/blob/main/docs/Rouleau%20Resume%202025.pdf)__
+__[Resume](https://nicolerouleau.github.io/Resume/RouleauResume2025.pdf)__
 - __Manager__ <br/>
 Marine Layer <br/>
 - __Supervisor__ <br/>
