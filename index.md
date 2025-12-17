@@ -25,10 +25,10 @@ Loyola Marymount University
 # Work History
 __[Resume](https://nicolerouleau.github.io/Resume/RouleauResume2025.pdf)__
 - __Business Systems Analyst__ <br/>
-San Jose State University <br/>
+San Jose State University - FD&O <br/>
 - __Manager__ <br/>
 Marine Layer <br/>
 - __Teaching Assistant__ <br/>
-Washington State University <br/>
+Washington State University - Economics <br/>
 
 [Connect On Linkedin](https://www.linkedin.com/in/nicole-rouleau/)
