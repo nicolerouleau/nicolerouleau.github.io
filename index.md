@@ -4,7 +4,7 @@
 ### Python - Health
 - Examined Japan’s 2024–2025 influenza season using weekly surveillance data, focusing on seasonal trends and growth-rate dynamics.
 - Analyzed regional surveillance patterns and demographic distributions to contextualize influenza burden and antiviral resistance.
-- [Japan Influenza Surveillance Analysis (2024–2025)](https://nicolerouleau.github.io/Japan_Flu2425)
+- [Japan Influenza Surveillance Analysis (2024–2025)](https://nicolerouleau.github.io/JapanFlu2425/)
   
 ### R - EDA
 - Performed data cleaning, integration, and analysis on a relational grocery sales dataset using R.
