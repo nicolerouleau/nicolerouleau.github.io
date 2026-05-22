@@ -23,7 +23,7 @@ Washington State University
 Loyola Marymount University
 
 # Work History
-__[Resume](https://nicolerouleau.github.io/Resume/RouleauResume2025.pdf)__
+__[Resume](https://nicolerouleau.github.io/Resume/Rouleau_Resume_2026.pdf)__
 - __Business Systems Analyst__ <br/>
 San Jose State University - FD&O <br/>
 - __Manager__ <br/>
